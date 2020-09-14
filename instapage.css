@@ -23,6 +23,7 @@ section {
   background-image: url("https://i.ytimg.com/vi/sNxSjcFZfYI/maxresdefault.jpg");
   height: 100px;
   width: 100px;
+  display: inline-block;
   object-fit: cover;
 }
 
